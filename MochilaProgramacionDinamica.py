@@ -2,7 +2,7 @@
     Nombre: MochilaProgramacionDinamica.py
     Descripción: Programa que realiza el algoritmo de la mochila con programación dinámica.
         Realizado para la asignatura de Algoritmia. Universidad de Burgos.
-    Autor: TRECEÑO RODRÍGUEZ, RAFAEL - rafa13o - http://rafaeltreceno.es
+    Autor: TRECEÑO RODRÍGUEZ, RAFAEL - rafa13o - https://linktr.ee/rafa13o
     Fecha: 1 de junio de 2023
     Versión: 1.0
 '''
